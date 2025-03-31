@@ -1,5 +1,5 @@
 # Covid Analysis
-![image]()
+![image](https://github.com/Mahadevkempe/Power-BI_Project/blob/main/Covid_Dataset(Analysis)/images.jpg)
 # Objective:
 The objective of this Covid-19 Dashboard is to provide a visual representation of key Covid-19 metrics, including total deaths, active cases, and recoveries. It helps users analyze Covid-19 trends by country and WHO regions through interactive charts and KPI cards.
 
