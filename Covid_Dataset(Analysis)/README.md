@@ -24,11 +24,11 @@ This dashboard helps in understanding the ongoing trends and analyzing the sprea
 # Overview:
 -WHO Regions & Countries: Displays categorized data for different regions and countries.
 
--Key Performance Indicators (KPIs): Summarizes total death cases, active cases, and recoveries.
+- Summarizes total death cases, active cases, and recoveries.
 
--Bar Chart: Compares Covid-19 deaths among different countries.
+-Compares Covid-19 deaths among different countries.
 
--Pie Chart: Represents the weekly percentage increase in Covid-19 cases by WHO region.
+- Represents the weekly percentage increase in Covid-19 cases by WHO region.
 
 
 
